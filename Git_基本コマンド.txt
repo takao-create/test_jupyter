@@ -1,0 +1,10 @@
+https://github.com/takao-create/test_jupyter.git
+
+git init              # リポジトリを作る
+git add <file>        # 変更をステージに載せる
+git commit -m "msg"   # コミット
+git status            # 状態確認
+git log               # 履歴確認
+git branch            # ブランチ確認
+git checkout <branch> # ブランチ切替
+git push/pull         # GitHub同期
